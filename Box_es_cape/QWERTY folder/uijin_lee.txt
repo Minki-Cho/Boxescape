@@ -1,0 +1,30 @@
+<Name>
+	Uijin.lee
+<Role>
+	Producer
+<Main contributions>
+	Grapics, menus, Audio tracts, Game concept, Coding.
+<List files in which I worked>
+	backgroundsound.c
+	backgroundsound.h
+	credit.c
+	credit.h
+	digipenlogo.c
+	howto.c
+	howto.h
+	initmap.c
+	initmap.h
+	Menu.c
+	printIndent.c
+	printIndent.h
+	printing.c
+	printing.h
+	printing_Ending.c
+	printing_Ending.h
+<Personal notes (optional)>
+	Decorating printing screen I liked.
+	I learned Array and Pos in detail.
+	I will make my own new game with what I learned during 
+	the winter break.
+	I learned teamwork through this project!!
+	It's amazing how the game I've been thinking is made into reality.

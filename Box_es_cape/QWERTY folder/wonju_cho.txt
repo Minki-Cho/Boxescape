@@ -1,0 +1,6 @@
+Name : WonJu Cho
+Role : Product manager
+Main contributions: coding, graphics, music assets, maps.
+List: backgroundsound, credit, ending, initmap, menu, printing, printing ending, boxescape
+<Personal notes (optional)>
+	It was good to be coded around the players.

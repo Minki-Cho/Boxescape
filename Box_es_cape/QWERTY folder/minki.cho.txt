@@ -1,0 +1,21 @@
+<Name>
+	Minki Cho
+<Role>
+	Technical Manager
+<Main contributions>
+	Grapics, Audio coding, keyinput, set console cursorposition
+<List files in which I worked>
+	backgroundsound.c
+	credit.c
+	gotoxy.c
+	howto.c
+	initmap.c
+	movement.c
+	printing.c
+	render.c
+	sound.c
+	textclolor.c
+	boxescape.c
+<Personal notes (optional)>
+	It was fun to make puzzle game. I knowed a various factor to decorate games. 
+	I really want to change size of font

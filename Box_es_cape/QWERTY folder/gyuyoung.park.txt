@@ -1,0 +1,19 @@
+<NAME> 
+    Gyuyoung.Park
+<Role>
+   Designer
+<Main Contribution>
+   Design, Coding
+<List files in which you worked>
+   boxescape.c
+   comment.c(comment.h)
+   Ending.c(Ending.h)
+   initmap.c(initmap.h)
+   Menu.c(Menu.h)
+   movement.c(movement.h)
+   opening.c(opening.h)   
+   render.c
+   restart.c(restart.h)
+<personal comment>
+   Box Is Lie!!!
+   tips) Pointer makes code easier.
